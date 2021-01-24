@@ -1,5 +1,5 @@
 @echo off
-title Window Restore tool for a dameged system files
+title Window Restore tool for a damaged system files
 echo 실행 하시겠습니까(Y/N)?
 echo.
 set /p a=
